@@ -1,4 +1,4 @@
-# Kubernetes To Go
+# Multi-cloud Kubernetes
 
  [by Vlad Khazin](https://www.linkedin.com/in/vkhazin)
 
