@@ -4,9 +4,11 @@
 
 ## Overview
 
-* Multi-session introduction to operating Kubernetes on multiple clouds
-* A walk through concepts, deployment methods and integration with native Cloud Services
-* Engage in group discussions and experiment hands-on with Kubernetes clusters on multiple cloud providers
+An introductory course to deploy workloads on multiple cloud providers leveraging Kubernetes as a common platform.
+The course walks participants through the concepts of containerization and commonly accepted Kubernetes practices.
+Participants will author a Dockerfile to package a sample application into a docker image, to compose a Kubernetes pod and to deploy to multiple Kubernetes-as-a-Service providers.
+Hands-on labs will focus on similarities and differences between leading public cloud Kubernetes providers, best practices, and common setbacks.
+The course will also introduce configuration, security, back-end, logging, and monitoring utilizing Kubernetes and/or cloud-native services.
 
 ## Audience
 
